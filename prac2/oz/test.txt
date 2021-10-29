@@ -1,0 +1,31 @@
+program
+{
+ int a = 51, b = 6, c;
+bool t;
+ string x = "abc", y, z = "abcd";
+ c = (a + b) * 2; 
+if (c >= 100 or x == z)
+ {
+ read (y);
+ write (y);
+ write (x + y + z, c);
+ }
+ else {
+ k:c = a = 21;
+}
+for(a = 0; a == 10 ; a = a + 1){
+write(a);
+}
+read(t);
+write(t);
+a = -4;
+write(a);
+
+ while (c > 100)
+ {
+c = c - 5;
+ write (c);
+ x = x + "step";
+ }
+ write(x);
+}
